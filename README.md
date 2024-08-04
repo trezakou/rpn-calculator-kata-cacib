@@ -63,3 +63,11 @@ Finally, run the API itself with the following command:
 ```zsh
 uvicorn app.main:app --reload
 ```
+
+### Accessing the swagger
+
+when the app is running, the API swagger is available here:
+
+http://localhost:8000/swagger
+
+
