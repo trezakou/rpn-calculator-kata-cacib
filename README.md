@@ -9,9 +9,9 @@
 
 The API is divided in two parts `default` and `RPN calculator`.
 
-The `RPN calculator` part is responsible for handeling all requests related to the functionalities requested for the RPN calculator.
+The `RPN calculator` part is responsible for handeling all requests related to the functionalities of the RPN calculator.
 
-The `default` contains an endpoint that allows to check if the API is working.
+The `default` contains an endpoint that allows to check if the API is in working order.
 
 ## Installation
 
@@ -20,7 +20,7 @@ The `default` contains an endpoint that allows to check if the API is working.
 * Clone this repository:
 
  ```zsh
- git clone https://github.com/StefanVDWeide/fastapi-api-template.git
+ git clone https://github.com/trezakou/rpn-calculator-kata-cacib
  ```
 
 ### Virtual Environment Setup
