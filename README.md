@@ -20,7 +20,7 @@ The `default` contains an endpoint that allows to check if the API is in working
 * Clone this repository:
 
  ```zsh
- git clone https://github.com/trezakou/rpn-calculator-kata-cacib
+ git clone https://github.com/trezakou/rpn-calculator-kata-cacib.git
  ```
 
 ### Virtual Environment Setup
